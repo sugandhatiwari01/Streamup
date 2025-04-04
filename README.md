@@ -1,7 +1,7 @@
 # Jazzify
 
 ## Overview
-This is a feature-rich **web-based music streaming platform** that allows users to stream and explore music seamlessly. Built using **PHP**, **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**, the platform offers a modern and intuitive user experience. Key features include Google SSO for streamlined authentication, a mailing system for user engagement, Spotify API integration for music search, and a library of over 50 downloadable songs for playback.
+This is a feature-rich **web-based music streaming platform** that allows users to stream and explore music seamlessly. Built using **PHP**, **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**, the platform offers a modern and intuitive user experience. Key features include Google SSO for streamlined authentication, a mailing system for user engagement, Spotify API integration for music search, and a library of over 50 downloaded songs for playback.
 
 ## Key Features
 - **Login and Signup System**:
