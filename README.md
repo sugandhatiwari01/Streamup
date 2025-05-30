@@ -27,7 +27,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/sugandhatiwari01/Jazzify.git)
    ```
 2. Navigate to the project directory:
    ```bash
