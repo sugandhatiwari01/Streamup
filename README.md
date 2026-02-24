@@ -1,4 +1,4 @@
-# Jazzify
+# StreamUp
 
 ## Overview
 This is a feature-rich **web-based music streaming platform** that allows users to stream and explore music seamlessly. Built using **PHP**, **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**, the platform offers a modern and intuitive user experience. Key features include Google SSO for streamlined authentication, a mailing system for user engagement, Spotify API integration for music search, and a library of over 50 downloaded songs for playback.
@@ -58,18 +58,7 @@ Follow these steps to set up the project locally:
 4. **Play Music**:
    - Browse and play songs from the pre-downloaded library.
 
-## Screenshots
-LOGIN PAGE
 
-![image](https://github.com/user-attachments/assets/64b58d2f-6f09-4472-9ed9-5f83e200f4e7)
-
-
-MAIN PAGE
-
-![Screenshot 2024-12-20 151830](https://github.com/user-attachments/assets/682ec98f-c3e9-4cb6-9cc2-1e3197ab58db)
-
-
-![image](https://github.com/user-attachments/assets/78121b8d-2571-454a-bdbb-8bd2868a259c)
 
 
 
